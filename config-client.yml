@@ -1,2 +1,4 @@
 info:
-    profile: default
+  profile: default
+  from: git
+test: aaa
