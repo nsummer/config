@@ -1,0 +1,3 @@
+profile: master
+from: git
+foo: "master..."
